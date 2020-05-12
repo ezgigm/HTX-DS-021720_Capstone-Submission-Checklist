@@ -1,6 +1,6 @@
-# DS Capstone MVP Submission Checklist
+# DS Capstone Minimum Viable Product Submission Checklist
 
-Use this checklist to avoid forgetting any required elements from your Capstone MVP. This is based on the [Capstone Rubric]().
+Use this checklist to avoid forgetting any required elements from your Capstone Minimum Viable Product. You must complete each element on this checklist in order to pass your Capstone! This is based on the [Capstone Rubric](https://docs.google.com/spreadsheets/d/1dm8_j7P6t3k67dpT2Sq4HMniK9zlP--GYkWJzYbnBFw/edit?usp=sharing).
 
 ## How to Use This Checklist
 
@@ -8,38 +8,36 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 
 ## Business Understanding
 
-- [ ] Clearly explains the real-world problem your project attempts to solve in...
+- [ ] Clearly explains the real-world problem that your project attempts to solve in...
   - [ ] Readme
-  - [ ] Notebook
-  - [ ] Slides
+  - [ ] Notebook(s)
+  - [ ] Presentation
 
 ## Data Understanding
 
 - [ ] Describes the data source in...
   - [ ] Readme
-  - [ ] Notebook
-  - [ ] Slides
-- [ ] Notebook describes properties of all variables used in project
+  - [ ] Notebook(s)
+  - [ ] Presentation (very succinctly)
+- [ ] Notebook(s) describes properties of all variables used in project
 
 ## Data Preparation
 
-- [ ] Notebook or `.py` file(s) include code to prepare your raw data for analysis
+- [ ] Notebook(s) or `.py` file(s) include all code to prepare your raw data for analysis
 
 ## Modeling
 
-- [ ] Notebook includes a baseline model
-- [ ] Notebook includes additional models built iteratively from the baseline model
+- [ ] Notebook(s) includes a baseline model
+- [ ] Notebook(s) includes additional models built iteratively from the baseline model
 - [ ] Preferred model is described in...
   - [ ] Readme
-  - [ ] Notebook
-  - [ ] Slides
+  - [ ] Notebook(s) 
 
 ## Evaluation
 
 - [ ] Model validation is included in...
   - [ ] Readme
-  - [ ] Notebook
-  - [ ] Slides
+  - [ ] Notebook(s)
 
 ## Readme Content
 
@@ -52,7 +50,7 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 
 ## Notebook Content
 
-- [ ] Notebook includes...
+- [ ] Notebook(s) includes...
   - [ ] Data understanding
   - [ ] Data preparation
   - [ ] Modeling
@@ -61,10 +59,10 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 ## Presentation Content
 
 - [ ] Presentation includes...
-  - [ ] Introduction
-  - [ ] Data science process steps
+  - [ ] Project introduction
+  - [ ] Results
   - [ ] Future improvement ideas
-  - [ ] Contact info
+  - [ ] Contact information (potentially: github, kaggle, linkedin)
 
 ## Presentation Style
 
